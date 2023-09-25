@@ -1,0 +1,41 @@
+.cabeçalho{
+
+    color: rgb(154, 208, 231);
+    
+    }
+.cabeçalhoD{
+    color: rgb(243, 238, 238);
+}
+.color{
+  color: darkgray;
+}
+.corpo{
+  background-color: rgb(192, 93, 126);
+  font-size: 20px;
+ }
+@media screen and (max-width: 800px) {
+  .corpo {          
+    color: white;
+    background-color: rgb(114, 110, 110);
+    font-size: 15px;
+    font-family: fantasy;
+  }  
+  .cabeçalho{
+    color: rgb(44, 23, 23);
+  }
+  .color{
+    color: black;
+  }
+}
+.img{
+  width: 200;
+}
+.corpoD{
+  background-color: black;
+  color: aliceblue;
+  font-size: 20px;
+}
+
+  
+
+    
